@@ -1,0 +1,12 @@
+{
+  "name": "Tix",
+  "version": "0.0.1",
+  "description": "Simple Chat app and issue management",
+  "main": "main.js",
+  "repository": {
+    "url": "https://github.com/flashprogram/Tix.git",
+    "type": "git"
+  },
+  "author": "Mine",
+  "license": "MIT"
+}
