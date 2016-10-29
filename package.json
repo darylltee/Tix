@@ -8,5 +8,8 @@
     "type": "git"
   },
   "author": "Mine",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^5.1.0"
+  }
 }
