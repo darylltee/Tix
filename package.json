@@ -10,6 +10,8 @@
   "author": "Mine",
   "license": "MIT",
   "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
     "menubar": "^5.1.0"
   }
 }
